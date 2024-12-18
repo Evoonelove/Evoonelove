@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Banner](https://your-image-link/banner.jpg) <!-- Вставьте ссылку на ваш баннер -->
+![Banner]([https://your-image-link/banner.jpg](https://github.com/Evoonelove/Evoonelove/blob/main/STRAY.webp)) <!-- Вставьте ссылку на ваш баннер -->
 
 🐱 **About Me**  
 I'm the creator of **STRAY Protocol** — a Web3 project inspired by freedom, exploration, and innovation.  
