@@ -4,7 +4,7 @@
 
 🐱 **About Me**  
 I'm the creator of **STRAY Protocol** — a Web3 project inspired by freedom, exploration, and innovation.  
-Building a future where decentralization meets creativity.  
+🐾Building a future where decentralization meets creativity.🚀  
 
 ---
 
